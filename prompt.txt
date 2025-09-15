@@ -1,0 +1,6 @@
+. Here are video subtitle chunks containing video title, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"Exercise 2 - CSS Challenge _ Sigma Web Development Course - Tutorial #20","start":59.6,"end":62.2,"text":" I am giving you an exercise of CSS."},{"title":"Exercise 8 - Bounce Animation _ Sigma Web Development Course - Tutorial #48","start":74.6,"end":77.6,"text":" I have put some CSS on my box."},{"title":"Exercise 2 - CSS Challenge _ Sigma Web Development Course - Tutorial #20","start":77.4,"end":80.0,"text":" And you have to make a CSS class."},{"title":"Exercise 2 - CSS Challenge _ Sigma Web Development Course - Tutorial #20","start":7.4,"end":10.0,"text":" And in this, we will do a challenge of CSS."},{"title":"Exercise 3 - Design this Card  _ Sigma Web Development Course - Tutorial #29","start":304.0,"end":306.0,"text":" HTML, CSS, JavaScript."}]
+---------------------------------
+"where is the css based exersise"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course

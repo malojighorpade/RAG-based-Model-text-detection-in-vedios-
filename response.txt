@@ -1,0 +1,7 @@
+Hi there! I see you're looking for the CSS exercise from Sigma Web Development Course.
+
+The CSS exercise is actually in Video 20 of the course, titled "Exercise 2 - CSS Challenge". The video starts at timestamp 7.4 seconds and ends at 10.0 seconds. Unfortunately, it looks like only a small portion of the exercise is covered in that initial part of the video.
+
+However, I found another instance where the full CSS challenge is covered. In Video 20 as well, but more thoroughly, from around 59.6 to 62.2 seconds, you'll find the complete explanation and task details for the CSS exercise.
+
+Let me know if you need further assistance or clarification!
